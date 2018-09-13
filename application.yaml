@@ -1,0 +1,4 @@
+config:
+  rate: 2
+FunnyQuotes:
+  EnableSecurity: false
